@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "a", "img": "img/a.jpg", "price": 300 },
+  { "id": 2, "name": "b", "img": "img/g.jpg", "price": 800 },
+  { "id": 3, "name": "c", "img": "img/c.jpg", "price": 500 },
+  { "id": 4, "name": "d", "img": "img/d.jpg", "price": 230 },
+  { "id": 5, "name": "e", "img": "img/e.jpg", "price": 950 },
+  { "id": 6, "name": "f", "img": "img/f.jpg", "price": 1200 },
+  { "id": 7, "name": "g", "img": "img/b.jpg", "price": 3500 },
+  { "id": 8, "name": "h", "img": "img/h.jpg", "price": 200 },
+  { "id": 9, "name": "i", "img": "img/i.jpg", "price": 40 },
+  { "id": 10, "name": "j", "img": "img/j.jpg", "price": 2200 }
+]
